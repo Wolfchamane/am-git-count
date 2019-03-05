@@ -1,0 +1,11 @@
+{
+    "name": "@am/git-count",
+    "version": "0.0.0-a",
+    "description": "Recursively counts all user commits within a root path",
+    "license": "MIT",
+    "main": "index.js",
+    "repository": {
+        "type": "git",
+        "url": "git@github.com:Wolfchamane/am-git-count.git"
+    }
+}
